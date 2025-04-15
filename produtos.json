@@ -10,5 +10,11 @@
     "nome": "Vibrador Bullet",
     "preco": 89.9,
     "imagem": "https://example.com/vibrador.jpg"
+  },
+  {
+    "id": "produto2",
+    "nome": "Vibrador Bullet",
+    "preco": 89.9,
+    "imagem": "https://example.com/vibrador.jpg"
   }
 ]
