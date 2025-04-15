@@ -1,20 +1,12 @@
 [
   {
-    "id": "produto1",
-    "nome": "Plug Anal com Cristal",
-    "preco": 49.9,
-    "imagem": "https://example.com/plug.jpg"
+    "nome": "Vibrador Super Sexy",
+    "descricao": "Um vibrador com diversas intensidades de vibração.",
+    "preco": 99.99
   },
   {
-    "id": "produto2",
-    "nome": "Vibrador Bullet",
-    "preco": 89.9,
-    "imagem": "https://example.com/vibrador.jpg"
-  },
-  {
-    "id": "produto3",
-    "nome": "Vibrador Bullet",
-    "preco": 89.9,
-    "imagem": "https://example.com/vibrador.jpg"
+    "nome": "Lube Sensual",
+    "descricao": "Lubrificante com sensação quente.",
+    "preco": 29.99
   }
 ]
