@@ -40,5 +40,12 @@
     "preco": 39.90,
     "imagem": "https://dynamic.cdnlive.com.br/2000x2000/uploads/102/unidade/17404308238306_zoom/jpg/conjunto-antonella-em-renda-com-aro-e-bojo-mil-toques.jpg",
     "categoria": "fantasia"
+  },
+  {
+    "id": "produto7",
+    "nome": "Sweet Girl Gel Hidratante Para Virilha 240Ml Chillies",
+    "preco": 39.90,
+    "imagem": "https://dynamic.cdnlive.com.br/2000x2000/uploads/102/produto/17431808484984_zoom/jpg/sweet-girl-gel-hidratante-para-virilha-240ml-chillies.jpg",
+    "categoria": "Promoções"
   }
 ]
