@@ -82,5 +82,26 @@
     "preco": 109.00,
     "imagem": "https://miess.vteximg.com.br/arquivos/ids/340293-168-168/HC698-3_1.jpg?v=638803345922900000",
     "categoria": "promoções"
+  },
+  {
+    "id": "produto13",
+    "nome": "Kit Chicote Luxo com Máscara Brasil Fetiche",
+    "preco": 24.99,
+    "imagem": "https://miess.vteximg.com.br/arquivos/ids/213194-168-168/KLMP68-Preto_1.jpg?v=637430508342130000",
+    "categoria": "bondage"
+  },
+  {
+    "id": "produto14",
+    "nome": "Kit Sado BDSM 6 em 1 Libb",
+    "preco": 179.99,
+    "imagem": "https://miess.vteximg.com.br/arquivos/ids/324847-168-168/LB3017-Rosa_1.jpg?v=638538805821500000",
+    "categoria": "bondage"
+  },
+  {
+    "id": "produto15",
+    "nome": "Máscara Tiazinha La Pimienta",
+    "preco": 7.99,
+    "imagem": "https://miess.vteximg.com.br/arquivos/ids/208325-900-900/L070-Preto_1.jpg?v=637352779625600000",
+    "categoria": "mascara"
   }
 ]
